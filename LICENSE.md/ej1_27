@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    var número = prompt("Dime un número");
+    var numero = prompt("Dime otro número");
+    if (número > numero){
+      alert(número + numero);
+    } else if (número < numero){
+      alert(numero + número);
+    }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Calculadora de números pares o impares</title>
+</head>
+    <body>
+      <script>
+
+      var numero=parseInt(prompt ("Di un número al azar"));
+
+      var resto = (numero % 2);
+
+
+      if (resto==0) {
+      alert ("El número que has puesto es par")
+      }else if (resto==1){
+      alert ("El número que has puesto es impar")
+      }
+
+      </script>
+    </body>
+</html>

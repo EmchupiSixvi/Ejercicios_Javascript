@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title> Supermercats Emchupi </title>
+    </head>
+    <body>
+      <script>
+      alert("Bienvenid@ a nuestra tienda. Permítame recomendarle nuestras mejores uvas de temporada al increíble precio de 1.26€/kg.")
+      var peso
+      peso=prompt ("¿Cuántos kilogramos desea?")
+      var precio = (peso*1.26)
+      document.write("El precio de su compra es: " + precio +  "€. Gracias por su visita. Por favor, vuelva pronto :)");
+      </script>
+    </body>
+</html>

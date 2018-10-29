@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+      <meta charset="UTF-8">
+      <body>
+      <script>
+      var a = 3;
+      var b = 4*a
+      alert (b)
+      </script>
+    </body>
+</html>

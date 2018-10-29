@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+  <script>
+  var número = prompt("Dime tu nota");
+if (numero >=5) {
+  alert("Has aprobado");
+} else if (numero <5){
+  alert("Has suspendido")
+}
+  </script>
+  </body>
+</html>
